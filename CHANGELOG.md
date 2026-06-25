@@ -15,6 +15,14 @@ history](https://github.com/GoogleCloudPlatform/spring-cloud-gcp/commits/main)
 on GitHub.
 
 
+## [8.0.5](https://github.com/GoogleCloudPlatform/spring-cloud-gcp/compare/v8.0.4...v8.0.5) (2026-06-25)
+
+
+### Bug Fixes
+
+* **storage:** respect configured storage host as-is ([#4492](https://github.com/GoogleCloudPlatform/spring-cloud-gcp/issues/4492)) ([d620d03](https://github.com/GoogleCloudPlatform/spring-cloud-gcp/commit/d620d03af532aa53c0b9bc6f65d2cdfb974f1c5c)), closes [#4343](https://github.com/GoogleCloudPlatform/spring-cloud-gcp/issues/4343)
+* Trim Cloud SQL instance connection name in JDBC URLs ([#4468](https://github.com/GoogleCloudPlatform/spring-cloud-gcp/issues/4468)) ([723a06e](https://github.com/GoogleCloudPlatform/spring-cloud-gcp/commit/723a06e9c9e173773638fd048b7137bba2c51b0d)), closes [#4467](https://github.com/GoogleCloudPlatform/spring-cloud-gcp/issues/4467)
+
 ## [8.0.4](https://github.com/GoogleCloudPlatform/spring-cloud-gcp/compare/v8.0.3...v8.0.4) (2026-05-28)
 
 
